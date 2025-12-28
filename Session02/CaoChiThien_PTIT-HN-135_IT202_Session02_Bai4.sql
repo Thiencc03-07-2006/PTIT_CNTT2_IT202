@@ -20,8 +20,8 @@ CREATE TABLE Enrollment (
 );
 CREATE TABLE Teacher (
     teacher_id INT PRIMARY KEY,
-    full_name VARCHAR(100) NOT NULL,
-    email VARCHAR(100) NOT NULL UNIQUE
+    full_name VARCHAR(50) NOT NULL,
+    email VARCHAR(50) NOT NULL UNIQUE
 );
 ALTER TABLE Subject
 ADD teacher_id INT NOT NULL,
