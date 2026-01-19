@@ -295,7 +295,7 @@ DELIMITER ;
 DELIMITER //
 
 CREATE TRIGGER trigger_after_insert_order_details
--- Ở đây em thấy dùng before để ngăn cập nhật bảng
+-- Ở đây em thấy dùng before để ngăn cập nhật bảng chứ không nên sài after
 BEFORE INSERT ON OrderDetails
 FOR EACH ROW
 BEGIN
