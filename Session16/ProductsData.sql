@@ -2,7 +2,7 @@
   ('Chocolate Coconut Granola', 3.79, 82000, 'Food - Cereals'),
   ('Electrolyte Water Bottle', 34.99, 21000, 'Fitness'),
   ('Roasted Red Pepper Sauce', 3.29, 62000, 'Food - Sauces'),
-  ('Lentils', 2.99, 62, 'Food - Grains'),
+  ('Lentils', 2.99, 62000, 'Food - Grains'),
   ('Suede Ankle Booties', 79.99, 71000, 'Clothing - Footwear'),
   ('Set of Silicone Cooking Utensils', 29.99, 1000, 'Kitchen'),
   ('Cereal Dispenser with Portion Control', 24.99, 77000, 'Kitchen'),
